@@ -1,6 +1,7 @@
 # SQLite3 driver for Kohana v.3.x (koseven)
 
 ## Settings
+- copy files in database module
 - in bootstrap activate database module
 - in config database:
 ```php
